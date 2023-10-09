@@ -2,7 +2,6 @@
 // Name        : check_upper_lower_digit_case.cpp
 // Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
