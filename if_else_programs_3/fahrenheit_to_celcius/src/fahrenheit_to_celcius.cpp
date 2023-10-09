@@ -2,7 +2,6 @@
 // Name        : fahrenheit_to_celcius.cpp
 // Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
