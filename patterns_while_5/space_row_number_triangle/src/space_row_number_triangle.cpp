@@ -1,8 +1,7 @@
 //============================================================================
 // Name        : space_row_number_triangle.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
