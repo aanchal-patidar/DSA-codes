@@ -1,8 +1,7 @@
 //============================================================================
 // Name        : print_sum_1_to_n.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
