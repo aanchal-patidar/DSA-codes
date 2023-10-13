@@ -1,8 +1,7 @@
 //============================================================================
 // Name        : check_prime_or_not_prime.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
