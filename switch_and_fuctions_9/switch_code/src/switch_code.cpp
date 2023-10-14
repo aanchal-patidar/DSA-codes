@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : switch_code.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Performing some operation using switch case
 //============================================================================
 
 #include <iostream>
