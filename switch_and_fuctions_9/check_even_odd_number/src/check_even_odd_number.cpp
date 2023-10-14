@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : check_even_odd_number.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Finding even and odd numbers
 //============================================================================
 
 #include <iostream>
