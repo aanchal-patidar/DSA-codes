@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : prime_not_prime.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : check the number is prime or not
 //============================================================================
 
 #include <iostream>
@@ -14,8 +13,6 @@ bool isPrime(int n){
 		if(n % i == 0){
 			return 0;
 		}
-
-
 	}
 	return 1;
 }
