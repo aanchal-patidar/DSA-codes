@@ -1,8 +1,7 @@
 //============================================================================
 // Name        : calculator_using_switch.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
