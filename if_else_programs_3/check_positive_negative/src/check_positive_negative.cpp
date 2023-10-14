@@ -2,8 +2,7 @@
 // Name        : check_positive_negative.cpp
 // Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : check positive or negative numbers
 //============================================================================
 
 #include <iostream>
