@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : print_count_number.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Print counting
 //============================================================================
 
 #include <iostream>
