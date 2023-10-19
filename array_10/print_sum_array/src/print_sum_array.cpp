@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : print_sum_array.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : printing the sum of an array
 //============================================================================
 
 #include <iostream>
