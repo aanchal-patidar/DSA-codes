@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : search_key_linearly.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : serching key linearly
 //============================================================================
 
 #include <iostream>
