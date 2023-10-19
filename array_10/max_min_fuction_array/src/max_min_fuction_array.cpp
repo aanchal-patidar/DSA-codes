@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : max_min_fuction_array.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : finding maximum and minimum using functions in an array
 //============================================================================
 
 #include <iostream>
