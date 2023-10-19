@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : reverse_array.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Reverse the array
 //============================================================================
 
 #include <iostream>
@@ -26,8 +25,6 @@ void printarr(int arr[] , int n){
 
 int main() {
 	int arr[5] = {1,2,3,4,5};
-
-
 	reverse(arr , 5 );
 	printarr(arr , 5);
 
