@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : find_first_last_occarence.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : finding first and last occurance 
 //============================================================================
 
 #include <iostream>
