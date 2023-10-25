@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : find_sqrt.cpp
-// Author      : 
+// Author      : Aanchal Patidar
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : finding the sqrt of the number
 //============================================================================
 
 #include <iostream>
