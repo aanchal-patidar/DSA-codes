@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : length_of_string.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : Aanchal Patidar
+// Description : 
 //============================================================================
 
 #include <iostream>
