@@ -1,8 +1,6 @@
 //============================================================================
 // Name        : valid_palindrome.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
+// Author      : Aanchal Patidar
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
