@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : doubly_deletion_first_last_middle.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : Aanchal Patidar
+// Description : 
 //============================================================================
 
 #include <iostream>
